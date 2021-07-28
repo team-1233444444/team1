@@ -2,18 +2,14 @@ TEAM 1
 ====
 TEAM 1
 
-# ⚜ 참여인원
-- <a href="https://github.com/minusminu" target="_blank">min</a>
-- <a href="https://github.com/gksrkgml" target="_blank">gks</a>
-- <a href="https://github.com/SJHXjiah" target="_blank">SJHX</a>
-- <a href="https://github.com/seoyeonnnnnnnnnn" target="_blank">seoyeon</a>
+# ⚜ 프로젝트 소개
 <br><br>
 
-| min | gks | SJHX | seoyeon |
-| :----: | :----: | :----: | :----: |
-| [min](https://github.com/minusminu) | [gks](https://github.com/gksrkgml) | [SJHX](https://github.com/SJHXjiah) | [seoyeon](https://github.com/seoyeonnnnnnnnnn) |
+# ⚜ 기술 소개
+<br><br>
 
 # ⚜ 프로젝트 설명
+<br><br>
 
 # ⚜ 프로젝트 기간
 2021 07 21 ~ yyyy mm dd
@@ -29,3 +25,18 @@ TEAM 1
 |                     |                                                              |
 
 <br><br>
+
+
+# ⚜ 참여인원
+
+| ![image2](https://user-images.githubusercontent.com/87738954/127252262-54fb077b-c256-4d28-9f3a-3d6e4c1fff9a.png) | ![image2](https://user-images.githubusercontent.com/87738954/127252262-54fb077b-c256-4d28-9f3a-3d6e4c1fff9a.png) | ![image2](https://user-images.githubusercontent.com/87738954/127252262-54fb077b-c256-4d28-9f3a-3d6e4c1fff9a.png) | ![image2](https://user-images.githubusercontent.com/87738954/127252262-54fb077b-c256-4d28-9f3a-3d6e4c1fff9a.png) |
+| :----: | :----: | :----: | :----: |
+| [**정민**🐌](https://github.com/minusminu) | [**가희🍰**](https://github.com/gksrkgml) | [**수정💎**](https://github.com/SJHXjiah) | [**서연💌**](https://github.com/seoyeonnnnnnnnnn) |
+
+> **정민**🐌 : 깃허브/피피티 
+ 
+> **가희**🍰 : 조립/코드
+
+> **수정**💎 : 코드/발표
+
+> **서연**💌 : 조립/코드
