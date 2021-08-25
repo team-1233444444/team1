@@ -1,4 +1,5 @@
 # ⚜ TEAM 1
+![header](https://user-images.githubusercontent.com/87738954/130777709-153037c5-1944-4ce8-acc0-b4624842d482.png)
 ### 팀 1 의 깃허브 계정입니다
 
 # ⚜ 프로젝트 소개 
