@@ -39,7 +39,7 @@
 
 # ⚜ 참여인원
 
-| ![image2](https://user-images.githubusercontent.com/87738954/127252262-54fb077b-c256-4d28-9f3a-3d6e4c1fff9a.png) | ![image2](https://user-images.githubusercontent.com/87738954/127252262-54fb077b-c256-4d28-9f3a-3d6e4c1fff9a.png) | ![image2](https://user-images.githubusercontent.com/87738954/127252262-54fb077b-c256-4d28-9f3a-3d6e4c1fff9a.png) | ![image2](https://user-images.githubusercontent.com/87738954/127252262-54fb077b-c256-4d28-9f3a-3d6e4c1fff9a.png) |
+| ![1](https://user-images.githubusercontent.com/87738954/131217389-121e1003-5771-442c-aec5-3a4ad2ebd146.png) | ![2](https://user-images.githubusercontent.com/87738954/131217393-bd0716e7-ead3-437a-a4c1-95e97a8271d4.png) | ![3](https://user-images.githubusercontent.com/87738954/131217412-ba8c2b4b-faad-42ed-8ff6-0dc07b8077a1.png) | ![4](https://user-images.githubusercontent.com/87738954/131217401-adaa4383-d687-4718-ae2e-d29d65e51ecf.png) |
 | :----: | :----: | :----: | :----: |
 | [**정민**🐌](https://github.com/minusminu) | [**가희🍨**](https://github.com/gksrkgml) | [**수정💎**](https://github.com/SJHXjiah) | [**서연💌**](https://github.com/seoyeonnnnnnnnnn) |
 
