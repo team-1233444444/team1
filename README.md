@@ -1,11 +1,10 @@
 # ⚜ TEAM 1
 ![header](https://user-images.githubusercontent.com/87738954/130777709-153037c5-1944-4ce8-acc0-b4624842d482.png)
-### 팀 1 의 깃허브 계정입니다
+팀 1 의 깃허브 계정입니다
 
 # ⚜ 프로젝트 소개 
 메모리 게임<br>
-8x8 도트 매트릭스와 버튼을 이용한 간단한 게임 
-<br><br>
+8x8 도트 매트릭스와 버튼을 이용한 간단한 게임입니다<br> 
 
 # ⚜ 기술 소개
 <br><br>
@@ -13,28 +12,70 @@
 # ⚜ 코드 소개 
 
 ```Python
-
+while True :
+    userinput = [0,0,0,0,0,0,0,0,0,0]
+    uersresult = [False,False,False,False,False,False,False,False,False,False]
+    checkresult = 0
+    temp = 0
+    display.display_clear()
+    display.char_m()
+    
+    while temp < 10 : 
+    memorylist[temp] = urandom.randrange(1,5)
+    
+    while True : 
+        if temp >= 1 and memortlist[temp] == memorylist[temp-1] : 
+            memorylist[temp] = urandom.randrange(1,5)
+        else :
+            break
+    temp += 1       
 ```
-<br><br>
+```Python
+temp = 0 
+while temp < index+1 :
+    if userinput[temp] != memorylist[temp] : 
+        checkresult = 1
+    else : 
+        userresult[temp] = True
+    temp+=1
+```
+```Python
+if index ==9 and checkresult !=1 :
+    temp = 0
+    while temp < 3 :
+        display.display_clear()
+        display.display_c1r1()
+        utime.sleep(0,3)
+        display.display_clear()
+        display.display_c1r2()
+        utime.sleep(0,3)
+        display.display_clear()
+        display.display_c2r1()
+        utime.sleep(0,3)
+        display.display_clear()
+        display.display_c2r2()
+        utime.sleep(0,3)
+        temp += 1
+    display.display_clear()
+utime.sleep(2)
+```
 
 # ⚜ 프로젝트 설명
 
 <br><br>
 
 # ⚜ 프로젝트 기간
-2021 07 21 ~ yyyy mm dd
+2021 07 21 ~ 2021 09 15
 
 | 기간                | 설명                                                         |
 | ------------------- | ------------------------------------------------------------ |
 | 7.21(수)            | 프로젝트 시작                                                 |
 | 8.11(수)            | 코드 기반 구성 및 발표자료 구성                                 |
-| 8.18(수)            | 코드 완성 및 발표자료 마무리                                   |
+| 8.18(수)            | 코드 완성 및 발표자료 마무리                                    |
 | 8.25(수)            | 조립 완성                                                     |
+| 9.01(수)            | 발표자료 완성 및 가발표                                        |
 |                     |                                                              |
 |                     |                                                              |
-|                     |                                                              |
-
-<br><br>
 
 
 # ⚜ 참여인원
