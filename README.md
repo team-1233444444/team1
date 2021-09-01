@@ -40,7 +40,7 @@ while temp < index+1 :
     temp+=1
 ```
 ```Python
-if index ==9 and checkresult !=1 :
+if index == 9 and checkresult !=1 :
     temp = 0
     while temp < 3 :
         display.display_clear()
