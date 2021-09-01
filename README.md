@@ -74,20 +74,13 @@ utime.sleep(2)
 | 8.18(수)            | 코드 완성 및 발표자료 마무리                                    |
 | 8.25(수)            | 조립 완성                                                     |
 | 9.01(수)            | 발표자료 완성 및 가발표                                        |
-|                     |                                                              |
-|                     |                                                              |
+| 9.08(수)            |                                                              |
+| 9.15(수)            |                                                              |
 
 
 # ⚜ 참여인원
 
-| ![1](https://user-images.githubusercontent.com/87738954/131217389-121e1003-5771-442c-aec5-3a4ad2ebd146.png) | ![2](https://user-images.githubusercontent.com/87738954/131217393-bd0716e7-ead3-437a-a4c1-95e97a8271d4.png) | ![3](https://user-images.githubusercontent.com/87738954/131217412-ba8c2b4b-faad-42ed-8ff6-0dc07b8077a1.png) | ![4](https://user-images.githubusercontent.com/87738954/131217401-adaa4383-d687-4718-ae2e-d29d65e51ecf.png) |
+| [**김정민**🐌](https://github.com/minusminu) | [**한가희🍨**](https://github.com/gksrkgml) | [**홍수정💎**](https://github.com/SJHXjiah) | [**윤서연💌**](https://github.com/seoyeonnnnnnnnnn) |
 | :----: | :----: | :----: | :----: |
-| [**정민**🐌](https://github.com/minusminu) | [**가희🍨**](https://github.com/gksrkgml) | [**수정💎**](https://github.com/SJHXjiah) | [**서연💌**](https://github.com/seoyeonnnnnnnnnn) |
-
-> **정민**🐌 : 깃허브/피피티 
- 
-> **가희**🍨 : 조립/코드
-
-> **수정**💎 : 코드/발표
-
-> **서연**💌 : 조립/코드
+| ![1](https://user-images.githubusercontent.com/87738954/131217389-121e1003-5771-442c-aec5-3a4ad2ebd146.png) | ![2](https://user-images.githubusercontent.com/87738954/131217393-bd0716e7-ead3-437a-a4c1-95e97a8271d4.png) | ![3](https://user-images.githubusercontent.com/87738954/131217412-ba8c2b4b-faad-42ed-8ff6-0dc07b8077a1.png) | ![4](https://user-images.githubusercontent.com/87738954/131217401-adaa4383-d687-4718-ae2e-d29d65e51ecf.png) |
+| 디자인/총무 | 조립/코딩 | 디자인/발표 | 코딩/발표 |
