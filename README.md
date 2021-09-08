@@ -57,8 +57,8 @@ if index == 9 and checkresult !=1 :
 utime.sleep(2)
 ```
 
-# ⚜ 프로젝트 설명
-
+# ⚜ 회로도 설명
+![회로도 그리기](https://user-images.githubusercontent.com/87738954/132500478-c727fc54-be23-4549-8386-4fa61bb15a04.png)
 <br><br>
 
 # ⚜ 프로젝트 기간
