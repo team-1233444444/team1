@@ -9,6 +9,7 @@
 # ⚜ 코드 소개 
 
 ```Python
+# 랜덤값 입력하는 코드 
 while True :
     userinput = [0,0,0,0,0,0,0,0,0,0]
     uersresult = [False,False,False,False,False,False,False,False,False,False]
@@ -25,9 +26,10 @@ while True :
             memorylist[temp] = urandom.randrange(1,5)
         else :
             break
-    temp += 1       
+    temp += 1
 ```
 ```Python
+# 사용자 입력 값이 틀렸을 경우
 temp = 0 
 while temp < index+1 :
     if userinput[temp] != memorylist[temp] : 
@@ -37,6 +39,7 @@ while temp < index+1 :
     temp+=1
 ```
 ```Python
+# 10회 다 성공했을 경우
 if index == 9 and checkresult !=1 :
     temp = 0
     while temp < 3 :
@@ -71,8 +74,8 @@ utime.sleep(2)
 | 8.18(수)            | 코드 완성 및 발표자료 마무리                                    |
 | 8.25(수)            | 조립 완성                                                     |
 | 9.01(수)            | 발표자료 완성 및 가발표                                        |
-| 9.08(수)            |                                                              |
-| 9.15(수)            |                                                              |
+| 9.08(수)            | 발표 마지막 준비 및 깃허브 마무리                               |
+| 9.15(수)            | 프로젝트 최종 발표 및 마무리                                    |
 
 
 # ⚜ 참여인원
