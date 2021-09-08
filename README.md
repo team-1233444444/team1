@@ -7,6 +7,7 @@
 8x8 도트 매트릭스와 버튼을 이용한 간단한 게임입니다<br> 
 
 # ⚜ 기술 소개
+
 <br><br>
 
 # ⚜ 코드 소개 
@@ -80,7 +81,7 @@ utime.sleep(2)
 
 # ⚜ 참여인원
 
-| [**김정민**🐌](https://github.com/minusminu) | [**한가희🍨**](https://github.com/gksrkgml) | [**홍수정💎**](https://github.com/SJHXjiah) | [**윤서연💌**](https://github.com/seoyeonnnnnnnnnn) |
-| :----: | :----: | :----: | :----: |
-| ![1](https://user-images.githubusercontent.com/87738954/131217389-121e1003-5771-442c-aec5-3a4ad2ebd146.png) | ![2](https://user-images.githubusercontent.com/87738954/131217393-bd0716e7-ead3-437a-a4c1-95e97a8271d4.png) | ![3](https://user-images.githubusercontent.com/87738954/131217412-ba8c2b4b-faad-42ed-8ff6-0dc07b8077a1.png) | ![4](https://user-images.githubusercontent.com/87738954/131217401-adaa4383-d687-4718-ae2e-d29d65e51ecf.png) |
-| 디자인/총무 | 조립/코딩 | 디자인/발표 | 코딩/발표 |
+| [**김정민**🐌](https://github.com/minusminu) | [**홍수정💎**](https://github.com/SJHXjiah) | [**윤서연💌**](https://github.com/seoyeonnnnnnnnnn) |
+| :----: | :----: | :----: |
+| ![1](https://user-images.githubusercontent.com/87738954/131217389-121e1003-5771-442c-aec5-3a4ad2ebd146.png) | ![3](https://user-images.githubusercontent.com/87738954/131217412-ba8c2b4b-faad-42ed-8ff6-0dc07b8077a1.png) | ![4](https://user-images.githubusercontent.com/87738954/131217401-adaa4383-d687-4718-ae2e-d29d65e51ecf.png) |
+| 디자인/총무 | 디자인/발표 | 코딩/발표 |
