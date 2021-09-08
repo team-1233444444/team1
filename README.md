@@ -10,6 +10,7 @@
 
 ```Python
 # 랜덤값 입력하는 코드 
+
 while True :
     userinput = [0,0,0,0,0,0,0,0,0,0]
     uersresult = [False,False,False,False,False,False,False,False,False,False]
@@ -30,6 +31,7 @@ while True :
 ```
 ```Python
 # 사용자 입력 값이 틀렸을 경우
+
 temp = 0 
 while temp < index+1 :
     if userinput[temp] != memorylist[temp] : 
@@ -39,7 +41,8 @@ while temp < index+1 :
     temp+=1
 ```
 ```Python
-# 10회 다 성공했을 경우
+# 10회 다 성공했을 경우 
+
 if index == 9 and checkresult !=1 :
     temp = 0
     while temp < 3 :
